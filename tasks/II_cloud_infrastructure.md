@@ -29,3 +29,9 @@
 на мастер-ноде
 `hadoop distcp s3a://mlops-course-bucket/second_hw/ ./`
 `hdfs dfs -ls ./`
+
+**s3**:
+<img width="1243" alt="image" src="https://github.com/MixKup/MLOps_study/assets/19960794/b75ea57c-7fd0-42d2-a3ee-a7a53a20675d">
+
+**hdfs**:
+<img width="1230" alt="image" src="https://github.com/MixKup/MLOps_study/assets/19960794/35ade394-d471-48fa-a356-31d954fd55c0">
