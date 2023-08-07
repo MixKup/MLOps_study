@@ -18,3 +18,4 @@ df = temp.toDF(header.split("|"))
 
 print(df.show())
 ```
+![image](https://github.com/MixKup/MLOps_study/assets/19960794/ab28b697-a4a2-4886-b306-c584cf3ad351)
