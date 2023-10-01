@@ -1,3 +1,13 @@
+'''USAGE: чтобы заработали креды, нужно создать в коре .aws папку. в ней два факйла:
+credentials:
+[default]
+  aws_access_key_id = YCAJEI1C63_Fj5X5Lkw80GOLr
+  aws_secret_access_key = YCMexGNeTMBjKZWdsYw0SPHWOyShoHuI8CtA0-uV
+
+config:
+[default]
+  region=ru-central1
+'''
 import findspark
 findspark.init()
 
