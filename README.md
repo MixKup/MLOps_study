@@ -9,3 +9,6 @@ YC object storage - s3://mlops-course-bucket
 <img width="1007" alt="image" src="https://github.com/MixKup/MLOps_study/assets/19960794/6bc7d873-3ac4-43ac-a97c-7ff778f1bc86">
 ![image](https://github.com/MixKup/MLOps_study/assets/19960794/bcbd058f-b209-4351-972c-0ef9fe0a5d05)
 
+## IV HW
+
+![image](https://github.com/MixKup/MLOps_study/assets/19960794/fd0b050b-1c16-4bf3-86b0-c3cae990a565)
