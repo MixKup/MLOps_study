@@ -34,3 +34,8 @@ how to start airflow container on virtual machine:
    33  l
    34  docker ps
 ```
+
+
+настройка внутри юи (админ/коннекшнс):
+
+![image](https://github.com/MixKup/MLOps_study/assets/19960794/676c8121-77d8-45c8-91ca-bb16fe4cb9cf)
